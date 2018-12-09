@@ -28,12 +28,7 @@
       "website": "https://www.boeing.com/company/about-bgs/index.page",
       "position": "Systems and Data Analyst",
       "startDate": "2019-01",
-      "summary": "A summary of your role in this position. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
-      "highlights": [
-        "Increased profits on left-handed spin widgets by 35%.",
-        "Participated in iterative/incremental devolution.",
-        "Promoted to Head Ninja after 500 successful cage matches."
-      ]
+      "summary": "Boeing Global Services is the parent organization of Jeppesen, A Boeing Company.",
     },
     {
       "company": "Jeppesen, A Boeing Company",
@@ -41,11 +36,10 @@
       "position": "Business Analyst Team Lead, Process Operations",
       "startDate": "2018-06",
       "endDate": "2018-12",
-      "summary": "A summary of your previous role. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
       "highlights": [
-        "Highlight #1.",
-        "Highlight #2.",
-        "Highlight #3."
+        "ETL Developer - Using both Informatica Cloud Services and Python scripts, build new mappings for several additional data sources including ServiceNow and JIRA.",
+        "Sprint Planning - Lead team of five in mapping our value streams, developing and implementing a tracking process for backlog and work-in-progress, and prioritizing work, guided by SAFe principles. Additionally, reported progress to senior leadership during manager's leave",
+        "Team Development - Focused on transferring skills to my team of five, primarily SQL queries and pricing processes."
       ]
     },
     {
@@ -54,11 +48,9 @@
       "position": "Business Analyst, Process Operations",
       "startDate": "2016-04",
       "endDate": "2018-06",
-      "summary": "A summary of your previous role. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
       "highlights": [
-        "Highlight #1.",
-        "Highlight #2.",
-        "Highlight #3."
+        "Master Data Management - Serve as SME on topic of Customer Information. Help establish policies, procedures, and standards to improve quality of data across CLM, CRM, and ERP systems. Evaluated tools including Talend and Alteryx to support data modeling and profiling activities. Build and schedule jobs in Oracle data warehouse.",
+        "Technical Writing - Document enterprise-level policies and procedures for DFARs/NIST 800-171 compliance. Maintain team intranet site."
       ]
     },
     {
@@ -67,27 +59,22 @@
       "position": "Global Tools Administrator, Global Business Management Services",
       "startDate": "2014-05",
       "endDate": "2016-04",
-      "summary": "A summary of your previous role. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
       "highlights": [
-        "Highlight #1.",
-        "Highlight #2.",
-        "Highlight #3."
+        "Business Intelligence - Build views in data warehouse. Build ad-hoc queries in Oracle PL/SQL. Perform analyses in Excel, R, and Tibco Spotfire.",
+        "Application Support, Informatica - Maintain connections to and mappings between data sources including Oracle and Salesforce, and schedules for data replication tasks. Monitor IP ranges of cloud-based data sources for firewall rules. Develop Bash and batch scripts to support troubleshooting of network issues.",
+        "Application Support, Tibco Spotfire - Install, maintain, and upgrade visual analytics tool. Build and maintain connections to data sources. Train and support 200 users on analytic and data visualization techniques. Maintain Active Directory user lists. Develop Powershell scripts to track user licensing.",
+        "Pricing Administration - Serve as SME on topic of Pricing. Build and maintain price lists, price breaks, discount/surcharge modifiers, and supporting data sets within Oracle. Work with Product Management, Client Management, and Finance to support annual price increase process."
       ]
     },
     {
       "company": "Jeppesen, A Boeing Company",
       "website": "http://ww1.jeppesen.com/index.jsp",
-      "position": "Oracle Customer Support Analyst, Aviation Applications Administration",
+      "position": "Oracle Customer Support Analyst (Contractor), Aviation Applications Administration",
       "startDate": "2013-06",
       "endDate": "2014-05",
-      "summary": "Contract postion through Experis. In this role I was responsible for supporting the business needs regarding Oracle E-Business Suite and the Quote-to-Cash process",
       "highlights": [
-        "Documents the customer's processes.",
-        "Identifies customer requirements for user acceptance testing to verify system functionality, quality, and accuracy.",
-        "Participates in peer-group reviews of designs and creates and maintains documentation.",
-        "Contributes to the completion of milestones associated with specific projects and implementation activities.",
-        "Assists in collecting, analyzing and documenting requirements from process owners.",
-        "Applies skills as directed by the Senior Manager, Process Operations. "
+        "Business Analysis - Facilitates creation of product launches and system enhancements by gathering requirements, reviewing with Change Control Board, planning and executing system testing, coordinating user acceptance testing, documenting system and process changes, performing train-the-trainer activities, and coordinating similar activities with Eastern Hemisphere colleagues.",
+        "Application Support, Oracle - Tier 1 support. Served as the go-between for business units, ITS, Finance, Distribution, and Product Management, in order to report on and troubleshoot issues with Oracle R12 applications, including Trading Community Architecture, Order Management, Subscription Maintenance, Pricing, Install Base, and Configurator Developer modules."
       ]
     },
     {
@@ -95,11 +82,9 @@
       "position": "Freelance Tester - Web, Android",
       "startDate": "2012-10",
       "endDate": "2014-05",
-      "summary": "Performed Exploratory Web Testing for clients through uTest.com\n\nPerformed Black-Box Testing of Android apps.",
       "highlights": [
-        "Highlight #1.",
-        "Highlight #2.",
-        "Highlight #3."
+        "Performed Exploratory Web Testing for clients through uTest.com",
+        "Performed Black-Box Testing of Android apps."
       ]
     },
     {
@@ -107,15 +92,26 @@
       "position": "Sr. Transactions Analyst, Corporate Printing Division",
       "startDate": "2006-01",
       "endDate": "2012-12",
-      "summary": "A summary of your previous role. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
       "highlights": [
-        "Highlight #1.",
-        "Highlight #2.",
-        "Highlight #3."
+        "Identified system limitations in Production database, made recommendations to trainers and management regarding policies and procedures designed to work around critical issues, improve accuracy and efficiency of order management process.",
+        "Utilized Oracle Order Management 11i to resolve billing disputes and ensure customer satisfaction.",
+        "Assisted business support analyst with end-user testing of new upgrades on separate QA databases as well as stress testing of Production database during ERP conversion project to Oracle.",
+        "Worked closely with sales, billing, order management, and collection departments located across the country, to maintain customer satisfaction for large customer accounts, including all Federal Government accounts, specifically with billing and invoicing errors."
       ]
     }
   ],
   "education": [
+    {
+      "institution": "Coursera",
+      "area": "Data Warehousing for Business Intelligence",
+      "studyType": "Certificate",
+      "courses": [
+        "Data Warehouse Concepts, Design, and Data Integration",
+        "Relational Database Support for Data Warehouses",
+        "Business Intelligence Concepts, Tools, and Applications"
+      ],
+      "startDate": "2018-09"
+    },
     {
       "institution": "Coursera",
       "area": "Python for Everybody",
